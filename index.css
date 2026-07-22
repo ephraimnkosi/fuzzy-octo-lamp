@@ -1,0 +1,13 @@
+@font-face {
+    src: url(./src/fonts/PlaywriteNZBasic-VariableFont_wght.ttf);
+    font-family: Playwrite;
+}
+
+@font-face {
+    src: url(./src/fonts/Geomini-VariableFont_wght.ttf);
+    font-family: Geomini;
+}
+
+body {
+    font-family: Geomini, Playwrite;
+}
